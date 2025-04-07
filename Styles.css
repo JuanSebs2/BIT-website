@@ -1,0 +1,44 @@
+/*como hacer una caja con un borde de 5px de color aquamarine y un tamaño de 300px por 300px*/
+.image-container img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+
+.box-blue{
+
+    width: 300px;
+    height: 300px;
+    border-width: 5px;
+    border-color: aquamarine;
+    border-style: solid;
+}
+
+.box-red{
+
+    width: 300px;
+    height: 300px;
+    border-width: 5px;
+    border-color: rgb(197, 22, 22);
+    border-style: solid;
+    background-color: red;
+    padding-top: 40px;
+}
+
+.box-green{
+
+    width: 150px;
+    height: 150px;
+    border-width: 5px;
+    border-color: rgb(48, 195, 38);
+    border-style: solid;
+    background-color: green;
+    margin-left: 30px;
+}
+
+
+
+
+

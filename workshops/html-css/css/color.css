@@ -1,0 +1,39 @@
+/*global styles*/
+* {
+    box-sizing: border-box;
+}
+
+html,body {
+    height: 100%
+}
+
+body {
+    background-color: rgb(210, 230, 225);
+    margin: 0;
+    color: gray;
+}
+
+h1 {
+    background-color: aliceblue;
+    color: black;
+    padding: 20px;
+    padding-left: 30px;
+}
+
+h2,h3,h4,h5,h6 {
+    color:bisque;
+    text-align: center;;
+}
+
+table {
+    border: 1px solid black;
+    margin-left: 30px;;
+}
+
+tr {
+    margin: 20px;
+}
+
+th,td {
+    padding: 20px;
+}
