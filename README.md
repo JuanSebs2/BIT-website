@@ -2,7 +2,7 @@
 
 Este proyecto fue desarrollado como parte de un curso de **Fundamentos de HTML y CSS**. Su objetivo es poner en práctica los conocimientos básicos sobre la estructura de páginas web y el uso de estilos para mejorar su presentación visual.
 
-## 📚 Contenidos aplicados
+##  Contenidos aplicados
 
 - Estructura básica de un documento HTML5
 - Uso de etiquetas semánticas (`header`, `main`, `footer`, etc.)
@@ -12,12 +12,12 @@ Este proyecto fue desarrollado como parte de un curso de **Fundamentos de HTML y
 - Selectores básicos y jerarquía de estilos
 - Diseño responsive básico con `@media queries`
 
-## 🛠️ Herramientas utilizadas
+##  Herramientas utilizadas
 
 - HTML5  
-- CSS3  
+- CSS
 - Visual Studio Code
 
-## 📁 Estructura del proyecto
+##  Estructura del proyecto
 
 
